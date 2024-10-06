@@ -1,0 +1,56 @@
+.header {
+    display: flex;
+    background-color: red;
+    justify-content: center;
+}
+
+.about {
+    display: flex;
+    background-color: green;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.atrangi img {
+    display: flex;
+    flex-direction: row;
+    background-color: lightcoral;
+    justify-content: center;
+    align-items: center;
+    height: 430px;
+    width: 690px;
+    border-radius: 20px;
+    border: 4px;
+    margin-left: 300px;
+    padding-top: 50px;
+}
+.text_atrangi {
+    /* text-align: center; */
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    margin-left: 310px;
+    color: rgb(158, 154, 154);
+    gap: 480px;    
+}
+
+.title{
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 310px;
+
+}
+
+.a {
+    display: flex;
+    width: 500px;
+    background-color: orange;
+    margin-left: 320px;
+    width: 690px;
+    padding: 5px 5px;
+    font-size: 22px;
+}
